@@ -12,7 +12,7 @@
 
 ## 🚀 Quick Start (30 seconds)
 
-1. **[Install from Chrome Web Store →]([https://chrome.google.com/webstore](https://chromewebstore.google.com/detail/jhhegdmiakbocegfcfjngkodicpjkgpb?utm_source=item-share-cb))**
+1. **[Install from Chrome Web Store →](https://chromewebstore.google.com/detail/jhhegdmiakbocegfcfjngkodicpjkgpb?utm_source=item-share-cb)**
 2. **Open any Kubernetes YAML on GitHub/GitLab**
 3. **Click the Guardon icon** — violations appear instantly with suggested fixes
 
